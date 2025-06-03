@@ -1,0 +1,22 @@
+Message {
+  channelId: '1379366896910209047',
+  guildId: '1379366896910209044',
+  id: '1379379412843368460',
+  createdTimestamp: 1748940079652,
+  type: 0,
+  system: false,
+  content: 'hii',
+  author: User {
+    id: '1014850948029481031',
+    bot: false,
+    system: false,
+    flags: UserFlagsBitField { bitfield: 0 },
+    username: 'jaiyankargupta',
+    globalName: 'Rustyn',
+    discriminator: '0',
+    avatar: 'db7fb66604a2ec062ce221969ecbae0e',
+    banner: undefined,
+    accentColor: undefined,
+    avatarDecoration: null,
+    avatarDecorationData: null
+  }
